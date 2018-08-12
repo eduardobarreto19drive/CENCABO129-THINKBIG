@@ -1,5 +1,5 @@
 # CENCABO129-THINKBIG
-# [BIG THINK](http://georgeosddev.github.com/markdown-edit)
+# [BIG THINK](http://georgeosddev.github.com/markdown-edit) :recycle:
 > **Video juego educativo**. <br>
 >La idea es crear una comunidad mucho mas educada y consciente acerca del reciclaje a traves de una aplicación móvil.
 
