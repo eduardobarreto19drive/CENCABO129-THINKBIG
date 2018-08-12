@@ -17,7 +17,7 @@ Localidad: `Barrios Unidos` `Bogotá` `Colombía` <br>
 ## 2. :clipboard: Descripción de la solución
 
 Es una `aplicación hibrida` que incentiva a los `niños y niñas que estan entre grado 6° a 11° del colegio`  para crear una comunidad activamente participativa, consciente y motivada a seguir con las buenas practicas de `reciclaje` a traves de un `video juego`.  <br>
-El motor de esta aplicación son la `gamificación` para impulsar una `comunidad mucho mas educada y consciente acerca del reciclaje`
+El motor de esta aplicación es la `gamificación` para impulsar una `comunidad mucho mas educada y consciente acerca del reciclaje`
 
 >De la mano  con la innovación y emprendimiento-
 
