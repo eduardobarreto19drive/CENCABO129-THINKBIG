@@ -1,21 +1,20 @@
 # CENCABO129-THINKBIG
-# [BIG THINK](http://georgeosddev.github.com/markdown-edit) :recycle:
+# [BIG THINK](http://georgeosddev.github.com/markdown-edit) :recycle: :iphone: :video_game:
 > **Video juego educativo**. <br>
 >La idea es crear una comunidad mucho mas educada y consciente acerca del reciclaje a traves de una aplicación móvil.
 
-:+1: :sparkles: :camel: :tada:
-:rocket: :metal: :octocat: 
+
 
 [![Screen Shot](http://2.bp.blogspot.com/-pFOq5kka978/Tc39xkqMwtI/AAAAAAAAAAs/D0MNtqSZf60/s1600/seleccion+de+residuos.jpg)](http://todo-sobre-reciclaje.blogspot.com/2011/05/el-reciclaje.html)
 
-## 1.Nombre de la solución
+## 1.Nombre de la solución :briefcase:
 
-#### Big Think
+#### Big Think :video_game:
 Tematica: `Medio Ambiente` <br>
 Reto: `Reciclaje comunitario` <br>
 Localidad: `Barrios Unidos` `Bogotá` `Colombía` <br>
 
-## 2.Descripción de la solución
+## 2.Descripción de la solución :video_game:
 
 #### Option: Use [marked](https://github.com/chjj/marked) as conveter.
 If you checked radio `Use marked for conveter` **markdown-edit** use [marked](https://github.com/chjj/marked)
@@ -23,7 +22,7 @@ and [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) instad of Gith
 It is faster than API call and make you enable to use this app at offline.
 
 
-## 3. Descripción del reto
+## 3. Descripción del reto :pencil:
 
 
 #### Reto
@@ -68,7 +67,7 @@ para tener una localidad más limpia y sostenible.
 
 
 
-## 4.Integrantes y roles
+## 4.Integrantes y roles :boy: :woman:
 
 <table>
   <tr>
