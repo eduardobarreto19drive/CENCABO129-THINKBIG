@@ -7,14 +7,14 @@
 
 [![Screen Shot](http://2.bp.blogspot.com/-pFOq5kka978/Tc39xkqMwtI/AAAAAAAAAAs/D0MNtqSZf60/s1600/seleccion+de+residuos.jpg)](http://todo-sobre-reciclaje.blogspot.com/2011/05/el-reciclaje.html)
 
-## 1.Nombre de la solución :briefcase:
+## 1. :briefcase: Nombre de la solución 
 
-#### Big Think :video_game:
+#### Big Think :video_game: :recycle: 
 Tematica: `Medio Ambiente` <br>
 Reto: `Reciclaje comunitario` <br>
 Localidad: `Barrios Unidos` `Bogotá` `Colombía` <br>
 
-## 2.Descripción de la solución :video_game:
+## 2. :clipboard: Descripción de la solución 
 
 #### Option: Use [marked](https://github.com/chjj/marked) as conveter.
 If you checked radio `Use marked for conveter` **markdown-edit** use [marked](https://github.com/chjj/marked)
@@ -22,7 +22,7 @@ and [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) instad of Gith
 It is faster than API call and make you enable to use this app at offline.
 
 
-## 3. Descripción del reto :pencil:
+## 3. :pencil: Descripción del reto 
 
 
 #### Reto
@@ -67,7 +67,7 @@ para tener una localidad más limpia y sostenible.
 
 
 
-## 4.Integrantes y roles :boy: :woman:
+## 4. :boy: :woman: Integrantes y roles 
 
 <table>
   <tr>
@@ -85,6 +85,12 @@ para tener una localidad más limpia y sostenible.
 </table>
 
 
-## 6.Wireframe
+## 6.:computer: Wireframe
 
 Big Think
+
+
+## 7. :mag_right: Licencia
+Source code can be found on github, licenced under MIT.
+
+Developed ThinkBig team
