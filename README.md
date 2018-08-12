@@ -1,14 +1,17 @@
 # CENCABO129-THINKBIG
 # [BIG THINK](http://georgeosddev.github.com/markdown-edit)
 
-Video juego educativo <br>
-! La idea es crear una comunidad mucho mas educada y consciente acerca del reciclaje !.
+**Video juego educativo** <br>
+`La idea es crear una comunidad mucho mas educada y consciente acerca del reciclaje a traves de una aplicación móvil`
 
 [![Screen Shot](http://2.bp.blogspot.com/-pFOq5kka978/Tc39xkqMwtI/AAAAAAAAAAs/D0MNtqSZf60/s1600/seleccion+de+residuos.jpg)](http://todo-sobre-reciclaje.blogspot.com/2011/05/el-reciclaje.html)
 
 ## 1.Nombre de la solución
 
 #### Big Think
+Tematica: `Medio Ambiente` <br>
+Reto: `Reciclaje comunitario` <br>
+Localidad: `Barrios Unidos` `Bogotá` `Colombía` <br>
 
 ## 2.Descripción de la solución
 
@@ -24,6 +27,9 @@ It is faster than API call and make you enable to use this app at offline.
 #### Reto
 ¿Cómo podemos definir un sistema de reciclaje sostenible para la
 comunidad?
+
+#### Temática
+Medio ambiente
 
 #### Situación
 La situación de la localidad parte de la falta de concientización
@@ -48,6 +54,15 @@ procesos que se pueden desarrollar para mejor esto. Incentivando
 a la comunidad a sentirse parte y participar de todo este proceso
 para tener una localidad más limpia y sostenible.
 
+### Actores claves
+
+* Líderes comunitarios
+* Secretaría de Desarrollo
+* Económico
+* Organizaciones responsables
+* Comercios
+* Secretaria de educación
+* Secretaria de ambiente
 
 
 
