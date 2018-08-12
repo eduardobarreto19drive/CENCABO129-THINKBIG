@@ -86,8 +86,14 @@ para tener una localidad más limpia y sostenible.
 
 
 ## 6.:computer: Wireframe
+```
+Puedes visualizar el Wireframe de la app en el siguiente enlace: 
+```
 
-Big Think
+*ENLACE* : [ https://marvelapp.com/5ehb5jj]( https://marvelapp.com/5ehb5jj) 
+
+
+
 
 
 ## 7. :mag_right: Licencia
@@ -97,5 +103,6 @@ Version 2.0, January 2004
 http://www.apache.org/licenses/
 
 Source code can be found on github, licenced under MIT.
-Developed ThinkBig team
+Developed ThinkBig team - 2018
 ```
+
