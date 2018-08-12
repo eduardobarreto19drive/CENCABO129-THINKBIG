@@ -14,12 +14,14 @@ Tematica: `Medio Ambiente` <br>
 Reto: `Reciclaje comunitario` <br>
 Localidad: `Barrios Unidos` `Bogotá` `Colombía` <br>
 
-## 2. :clipboard: Descripción de la solución 
+## 2. :clipboard: Descripción de la solución
 
-#### Option: Use [marked](https://github.com/chjj/marked) as conveter.
-If you checked radio `Use marked for conveter` **markdown-edit** use [marked](https://github.com/chjj/marked)
-and [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) instad of Github's API.
-It is faster than API call and make you enable to use this app at offline.
+Es una `aplicación hibrida` que incentiva a los `niños y niñas que estan entre grado 6° a 11° del colegio`  para crear una comunidad activamente participativa, consciente y motivada a seguir con las buenas practicas de `reciclaje` a traves de un `video juego`.  <br>
+El motor de esta aplicación son la `gamificación` para impulsar una `comunidad mucho mas educada y consciente acerca del reciclaje`
+
+>De la mano  con la innovación y emprendimiento-
+
+
 
 
 ## 3. :pencil: Descripción del reto 
@@ -105,4 +107,3 @@ http://www.apache.org/licenses/
 Source code can be found on github, licenced under MIT.
 Developed ThinkBig team - 2018
 ```
-
