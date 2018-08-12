@@ -91,6 +91,11 @@ Big Think
 
 
 ## 7. :mag_right: Licencia
-Source code can be found on github, licenced under MIT.
+```
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
+Source code can be found on github, licenced under MIT.
 Developed ThinkBig team
+```
