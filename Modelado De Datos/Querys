@@ -1,0 +1,13 @@
+SELECT "ID_USUARIO", "NOMBRE", "EDAD", "GENERO", "EMAIL", "PASSWORD", "AVATAR"
+	FROM public."USUARIO"
+	WHERE "ID_USUARIO" = 1;
+
+SELECT * FROM public."NIVEL" WHERE "ESTADO" IN('A','D');
+
+SELECT usu."NOMBRE", lvl."ID_NIVEL",lvl."NOMBRE", lvl."ESTADO",ava."ESTRELLAS"
+FROM public."AVANCE" as ava
+INNER JOIN public."USUARIO" as usu ON usu."ID_USUARIO" = ava."ID_USUARIO"
+INNER JOIN public."NIVEL" as lvl on lvl."ID_NIVEL" = ava."ID_NIVEL"
+WHERE usu."ID_USUARIO" = 1;
+
+	
