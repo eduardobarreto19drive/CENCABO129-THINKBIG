@@ -95,7 +95,12 @@ Puedes visualizar el Wireframe de la app en el siguiente enlace:
 *ENLACE* : [ https://marvelapp.com/5ehb5jj]( https://marvelapp.com/5ehb5jj) 
 
 
+## 7.:computer: Landing Page
+```
+Puedes visualizar La landing Page de la app en el siguiente enlace: 
+```
 
+*Version 1: * : [https://drive.google.com/file/d/1JNWnKBoRW-GWhA8U_iDMwbaDqHqMKaTe/view?usp=sharing]( https://drive.google.com/file/d/1JNWnKBoRW-GWhA8U_iDMwbaDqHqMKaTe/view?usp=sharing) 
 
 
 ## 7. :mag_right: Licencia
